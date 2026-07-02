@@ -1,0 +1,8 @@
+hostname = input("Enter Hostname: ")
+ip_address = input("Enter IP Address: ")
+os_name = input("Enter OS: ")
+print()
+print("===== SERVER DETAILS =====")
+print("Hostname   :", hostname)
+print("IP Address :", ip_address)
+print("OS         :", os_name)

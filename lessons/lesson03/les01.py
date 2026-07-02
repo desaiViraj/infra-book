@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+print("Welcome", name)
+print ("Python Version : 3.8.10")
+print("Have a great day!")
+print(type(input))
+print(type(name))

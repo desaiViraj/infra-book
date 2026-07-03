@@ -1,0 +1,5 @@
+hostname = input("Enter Hostname: ")
+print("Original    :", hostname)
+print("Upper       :",hostname.upper())
+print("Lower       :",hostname.lower())
+print("Length      :",len(hostname))

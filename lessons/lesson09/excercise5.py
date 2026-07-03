@@ -1,0 +1,6 @@
+data = input("Enter Pod name: ").split("-")
+print(data)
+print("Database    :", data[0])
+print("Replica     :", data[1])
+print("Shard       :", data[2])
+print("Pod         :", data[3])

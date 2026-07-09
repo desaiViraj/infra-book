@@ -21,6 +21,6 @@ def print_report(server):
    print()
    metrics = ["cpu", "memory", "disk"]
    for metric in metrics:
-       print(metric,"     : ", server[metric], get_status(server[metric]))
+       print(metric.capitalize(),"     : ", server[metric], get_status(server[metric]))
    
 print_report(server)

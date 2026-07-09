@@ -1,0 +1,6 @@
+file = open("inventory.txt")
+content = file.read()
+print(content)
+print(type(content))
+print(len(content))
+file.close()

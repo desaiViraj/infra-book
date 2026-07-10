@@ -1,4 +1,7 @@
 import report
+import health
+import health
+import health
 
 server = {
     "hostname": "web01",
@@ -8,3 +11,4 @@ server = {
 }
 
 report.print_report(server)
+

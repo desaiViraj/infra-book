@@ -1,0 +1,20 @@
+[
+    {
+        "hostname": "web01",
+        "cpu": 35,
+        "memory": 60,
+        "disk": 55
+    },
+    {
+        "hostname": "db01",
+        "cpu": 92,
+        "memory": 81,
+        "disk": 90
+    },
+    {
+        "hostname": "cache01",
+        "cpu": 55,
+        "memory": 42,
+        "disk": 30
+    }
+]

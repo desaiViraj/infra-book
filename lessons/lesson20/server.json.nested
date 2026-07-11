@@ -1,0 +1,11 @@
+{
+    "server": {
+        "hostname": "web01",
+        "ip": "10.56.136.170"
+    },
+    "resources": {
+        "cpu": 92,
+        "memory": 81,
+        "disk": 45
+    }
+}
